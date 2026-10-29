@@ -1,0 +1,44 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://iot6tg41pxfs"
+path.s3tc="res://.godot/imported/gas statiion low poly1_Carbon_Fiber_diffuse.jpg-dd5ca402628f9dabf21b0d80d952cd79.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "1319a85b82d44228b1364ddf84753a7a"
+}
+
+[deps]
+
+source_file="res://Assets/Models/GsStation/gas statiion low poly1_Carbon_Fiber_diffuse.jpg"
+dest_files=["res://.godot/imported/gas statiion low poly1_Carbon_Fiber_diffuse.jpg-dd5ca402628f9dabf21b0d80d952cd79.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/uastc_level=0
+compress/rdo_quality_loss=0.0
+compress/hdr_compression=1
+compress/normal_map=1
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=1
+roughness/src_normal="res://Assets/Models/GsStation/gas statiion low poly1_Carbon_Fiber_diffuse.jpg"
+process/channel_remap/red=0
+process/channel_remap/green=1
+process/channel_remap/blue=2
+process/channel_remap/alpha=3
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
