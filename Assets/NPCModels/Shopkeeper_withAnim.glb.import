@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://be7jroq1o76gr"
-path="res://.godot/imported/Shopkeeper_withAnim.glb-d0a4488caff12a73bd9791aaed6a43e8.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/NPCModels/Shopkeeper_withAnim.glb"
-dest_files=["res://.godot/imported/Shopkeeper_withAnim.glb-d0a4488caff12a73bd9791aaed6a43e8.scn"]
 
 [params]
 

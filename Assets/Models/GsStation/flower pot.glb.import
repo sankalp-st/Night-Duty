@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dqu73ke8oa7xw"
-path="res://.godot/imported/flower pot.glb-d23779ac0fb8fd5e0b83afdc0534fa3d.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Models/GsStation/flower pot.glb"
-dest_files=["res://.godot/imported/flower pot.glb-d23779ac0fb8fd5e0b83afdc0534fa3d.scn"]
 
 [params]
 

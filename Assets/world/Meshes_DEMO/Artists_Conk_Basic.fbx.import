@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://end42eb2xha6"
-path="res://.godot/imported/Artists_Conk_Basic.fbx-afd0dc9f30bac88d3622eefaf8e7af21.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Artists_Conk_Basic.fbx"
-dest_files=["res://.godot/imported/Artists_Conk_Basic.fbx-afd0dc9f30bac88d3622eefaf8e7af21.scn"]
 
 [params]
 

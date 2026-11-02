@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://1tn1p6wm7v3r"
-path="res://.godot/imported/Hooded Stranger by Thomas DR - 0domsLgwnKq.glb-09c3d738c35804a06a56a3e563757482.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/NPCProfiles/amansoni/Hooded Stranger by Thomas DR - 0domsLgwnKq.glb"
-dest_files=["res://.godot/imported/Hooded Stranger by Thomas DR - 0domsLgwnKq.glb-09c3d738c35804a06a56a3e563757482.scn"]
 
 [params]
 

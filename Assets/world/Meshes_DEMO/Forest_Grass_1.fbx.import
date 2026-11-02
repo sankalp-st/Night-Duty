@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://yllytbkajyij"
-path="res://.godot/imported/Forest_Grass_1.fbx-d38d80ce5a5d1be1bc670bb680375438.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Forest_Grass_1.fbx"
-dest_files=["res://.godot/imported/Forest_Grass_1.fbx-d38d80ce5a5d1be1bc670bb680375438.scn"]
 
 [params]
 

@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ct36qbkbt0j6k"
-path="res://.godot/imported/ShopKeeper.fbx-f805f389308f1263e2cc600aef43eb99.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/NPCModels/ShopKeeper.fbx"
-dest_files=["res://.godot/imported/ShopKeeper.fbx-f805f389308f1263e2cc600aef43eb99.scn"]
 
 [params]
 

@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cddpjhc6l58ri"
-path="res://.godot/imported/gas statiion low poly1.glb-5c80b8d736bf21e1dad6064467c745cc.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Models/GsStation/gas statiion low poly1.glb"
-dest_files=["res://.godot/imported/gas statiion low poly1.glb-5c80b8d736bf21e1dad6064467c745cc.scn"]
 
 [params]
 

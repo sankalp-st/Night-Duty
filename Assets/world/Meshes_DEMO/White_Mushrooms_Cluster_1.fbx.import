@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bqb0uthggiose"
-path="res://.godot/imported/White_Mushrooms_Cluster_1.fbx-0d9f08078ffa762acb2a18d08f6d180b.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/White_Mushrooms_Cluster_1.fbx"
-dest_files=["res://.godot/imported/White_Mushrooms_Cluster_1.fbx-0d9f08078ffa762acb2a18d08f6d180b.scn"]
 
 [params]
 

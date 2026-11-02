@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://tnmmqtv2e864"
-path="res://.godot/imported/roundabout_1x1.glb-9a679ba8ab2b9a47935d95bc25f5b1ed.scn"
+valid=false
 
 [deps]
 
 source_file="res://addons/road-generator/custom_containers/roundabout_1x1.glb"
-dest_files=["res://.godot/imported/roundabout_1x1.glb-9a679ba8ab2b9a47935d95bc25f5b1ed.scn"]
 
 [params]
 

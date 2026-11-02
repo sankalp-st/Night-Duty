@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ddhpf10ilyuxy"
-path="res://.godot/imported/SD Macross Factory Worker by Tipatat Chennavasin - 6NuFz4plosz.glb-78815a953c4eaa5f9bb153ea06bcf9d1.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/NPCProfiles/YashDalal/SD Macross Factory Worker by Tipatat Chennavasin - 6NuFz4plosz.glb"
-dest_files=["res://.godot/imported/SD Macross Factory Worker by Tipatat Chennavasin - 6NuFz4plosz.glb-78815a953c4eaa5f9bb153ea06bcf9d1.scn"]
 
 [params]
 

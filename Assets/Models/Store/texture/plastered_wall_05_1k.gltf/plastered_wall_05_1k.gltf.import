@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://se6jqidp062w"
-path="res://.godot/imported/plastered_wall_05_1k.gltf-fda50c2499747b072a2d305e71383245.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Models/Store/texture/plastered_wall_05_1k.gltf/plastered_wall_05_1k.gltf"
-dest_files=["res://.godot/imported/plastered_wall_05_1k.gltf-fda50c2499747b072a2d305e71383245.scn"]
 
 [params]
 

@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://mioyhi14bdyh"
-path="res://.godot/imported/medikit.glb-9ca15d04e85ea77fd9e5a09eb6bacdfd.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Weapons/medikit.glb"
-dest_files=["res://.godot/imported/medikit.glb-9ca15d04e85ea77fd9e5a09eb6bacdfd.scn"]
 
 [params]
 

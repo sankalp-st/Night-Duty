@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://jenf4w8nd5b2"
-path="res://.godot/imported/Raspberry_Bush_1b.fbx-1a2593100374e9ec75141ccf9de48fe7.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Raspberry_Bush_1b.fbx"
-dest_files=["res://.godot/imported/Raspberry_Bush_1b.fbx-1a2593100374e9ec75141ccf9de48fe7.scn"]
 
 [params]
 

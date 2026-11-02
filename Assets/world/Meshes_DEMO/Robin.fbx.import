@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cow6i162454fw"
-path="res://.godot/imported/Robin.fbx-554c71876723d3a0807bfbab4f3aad05.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Robin.fbx"
-dest_files=["res://.godot/imported/Robin.fbx-554c71876723d3a0807bfbab4f3aad05.scn"]
 
 [params]
 

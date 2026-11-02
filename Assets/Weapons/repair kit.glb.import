@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cvxgh6vgcnpc3"
-path="res://.godot/imported/repair kit.glb-f797cff8847c39a5230c55d30f6dbfef.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Weapons/repair kit.glb"
-dest_files=["res://.godot/imported/repair kit.glb-f797cff8847c39a5230c55d30f6dbfef.scn"]
 
 [params]
 

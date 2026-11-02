@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://hqc4221mrh71"
-path="res://.godot/imported/Blackberry_Bush_1b.fbx-b19fde1c82e1bf8b99166d68689665f9.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Blackberry_Bush_1b.fbx"
-dest_files=["res://.godot/imported/Blackberry_Bush_1b.fbx-b19fde1c82e1bf8b99166d68689665f9.scn"]
 
 [params]
 

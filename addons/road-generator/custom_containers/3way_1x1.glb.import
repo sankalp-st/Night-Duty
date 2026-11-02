@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dhh0iyxhd5n8y"
-path="res://.godot/imported/3way_1x1.glb-3463effe5bf60312a91adb94933e483c.scn"
+valid=false
 
 [deps]
 
 source_file="res://addons/road-generator/custom_containers/3way_1x1.glb"
-dest_files=["res://.godot/imported/3way_1x1.glb-3463effe5bf60312a91adb94933e483c.scn"]
 
 [params]
 

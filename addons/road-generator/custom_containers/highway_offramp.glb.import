@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dqpky0vcyau4a"
-path="res://.godot/imported/highway_offramp.glb-da12c377559118c1aafb13e83b418288.scn"
+valid=false
 
 [deps]
 
 source_file="res://addons/road-generator/custom_containers/highway_offramp.glb"
-dest_files=["res://.godot/imported/highway_offramp.glb-da12c377559118c1aafb13e83b418288.scn"]
 
 [params]
 

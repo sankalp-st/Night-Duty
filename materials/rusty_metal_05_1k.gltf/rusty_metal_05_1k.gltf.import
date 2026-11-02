@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dkqvyomcvwbu6"
-path="res://.godot/imported/rusty_metal_05_1k.gltf-c68e66788de235a6a74e7cc889bfa1ed.scn"
+valid=false
 
 [deps]
 
 source_file="res://materials/rusty_metal_05_1k.gltf/rusty_metal_05_1k.gltf"
-dest_files=["res://.godot/imported/rusty_metal_05_1k.gltf-c68e66788de235a6a74e7cc889bfa1ed.scn"]
 
 [params]
 

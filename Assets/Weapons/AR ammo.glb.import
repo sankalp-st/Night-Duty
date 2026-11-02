@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bklqh0jyb6b1r"
-path="res://.godot/imported/AR ammo.glb-49b047f8ed6a2f34221324eff40a1bb4.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Weapons/AR ammo.glb"
-dest_files=["res://.godot/imported/AR ammo.glb-49b047f8ed6a2f34221324eff40a1bb4.scn"]
 
 [params]
 

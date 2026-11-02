@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d1ufuhcivj5hk"
-path="res://.godot/imported/Bay_Bolete_Group_1.fbx-6795c151265e0629c303124382be7beb.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Bay_Bolete_Group_1.fbx"
-dest_files=["res://.godot/imported/Bay_Bolete_Group_1.fbx-6795c151265e0629c303124382be7beb.scn"]
 
 [params]
 

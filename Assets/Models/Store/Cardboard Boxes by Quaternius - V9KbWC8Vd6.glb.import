@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cd1wctybovcm0"
-path="res://.godot/imported/Cardboard Boxes by Quaternius - V9KbWC8Vd6.glb-b32cd8a9a97a730a14f8864413d4c91a.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Models/Store/Cardboard Boxes by Quaternius - V9KbWC8Vd6.glb"
-dest_files=["res://.godot/imported/Cardboard Boxes by Quaternius - V9KbWC8Vd6.glb-b32cd8a9a97a730a14f8864413d4c91a.scn"]
 
 [params]
 

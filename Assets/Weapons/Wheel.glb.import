@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ci40rt2mirgvx"
-path="res://.godot/imported/Wheel.glb-5d4bf1af2b7ee368a24020a4c95759ee.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Weapons/Wheel.glb"
-dest_files=["res://.godot/imported/Wheel.glb-5d4bf1af2b7ee368a24020a4c95759ee.scn"]
 
 [params]
 

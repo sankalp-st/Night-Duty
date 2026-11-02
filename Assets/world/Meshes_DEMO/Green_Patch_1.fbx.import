@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cu385ck3hsjar"
-path="res://.godot/imported/Green_Patch_1.fbx-8f0a0d60e98f09aa4cd8595fd6f8359b.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Green_Patch_1.fbx"
-dest_files=["res://.godot/imported/Green_Patch_1.fbx-8f0a0d60e98f09aa4cd8595fd6f8359b.scn"]
 
 [params]
 

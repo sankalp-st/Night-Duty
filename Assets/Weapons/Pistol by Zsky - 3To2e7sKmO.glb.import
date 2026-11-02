@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://6h5ynqs2x8ri"
-path="res://.godot/imported/Pistol by Zsky - 3To2e7sKmO.glb-bffb085656a8835015846dff9023a5a7.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Weapons/Pistol by Zsky - 3To2e7sKmO.glb"
-dest_files=["res://.godot/imported/Pistol by Zsky - 3To2e7sKmO.glb-bffb085656a8835015846dff9023a5a7.scn"]
 
 [params]
 

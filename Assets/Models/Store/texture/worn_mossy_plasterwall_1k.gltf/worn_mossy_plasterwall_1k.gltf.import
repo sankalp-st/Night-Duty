@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cdqnada5ebyao"
-path="res://.godot/imported/worn_mossy_plasterwall_1k.gltf-6b83750b7b4e02e35a78d53060247539.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Models/Store/texture/worn_mossy_plasterwall_1k.gltf/worn_mossy_plasterwall_1k.gltf"
-dest_files=["res://.godot/imported/worn_mossy_plasterwall_1k.gltf-6b83750b7b4e02e35a78d53060247539.scn"]
 
 [params]
 

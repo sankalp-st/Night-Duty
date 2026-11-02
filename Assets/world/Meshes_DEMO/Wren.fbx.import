@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d1cole7kfmi6w"
-path="res://.godot/imported/Wren.fbx-8fa5e7e00d16505faebf8849a641abb9.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Wren.fbx"
-dest_files=["res://.godot/imported/Wren.fbx-8fa5e7e00d16505faebf8849a641abb9.scn"]
 
 [params]
 

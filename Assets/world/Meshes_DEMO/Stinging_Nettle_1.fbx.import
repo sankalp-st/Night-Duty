@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xmyuxu27bt2o"
-path="res://.godot/imported/Stinging_Nettle_1.fbx-de36f0cf0eddc0669cc91d56ab7335af.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Stinging_Nettle_1.fbx"
-dest_files=["res://.godot/imported/Stinging_Nettle_1.fbx-de36f0cf0eddc0669cc91d56ab7335af.scn"]
 
 [params]
 

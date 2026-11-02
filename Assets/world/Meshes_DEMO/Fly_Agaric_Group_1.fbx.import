@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dmm85sll46flc"
-path="res://.godot/imported/Fly_Agaric_Group_1.fbx-3fe65090e157ebb550fa859aa3432aea.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Fly_Agaric_Group_1.fbx"
-dest_files=["res://.godot/imported/Fly_Agaric_Group_1.fbx-3fe65090e157ebb550fa859aa3432aea.scn"]
 
 [params]
 

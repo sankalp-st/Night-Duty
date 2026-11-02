@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ci580se7gsg6i"
-path="res://.godot/imported/Woodruff_Cluster_1.fbx-28bd6874c51ea7580ee538ed7cd65c8a.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Woodruff_Cluster_1.fbx"
-dest_files=["res://.godot/imported/Woodruff_Cluster_1.fbx-28bd6874c51ea7580ee538ed7cd65c8a.scn"]
 
 [params]
 

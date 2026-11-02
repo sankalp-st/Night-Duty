@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cijy67pweewtv"
-path="res://.godot/imported/Fern_1a.fbx-72f71a64f6151580a3e3540966b35baa.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Fern_1a.fbx"
-dest_files=["res://.godot/imported/Fern_1a.fbx-72f71a64f6151580a3e3540966b35baa.scn"]
 
 [params]
 

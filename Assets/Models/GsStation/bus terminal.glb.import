@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ymksysfy38mt"
-path="res://.godot/imported/bus terminal.glb-8e1b703e1cf848ad882804a857afb8da.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Models/GsStation/bus terminal.glb"
-dest_files=["res://.godot/imported/bus terminal.glb-8e1b703e1cf848ad882804a857afb8da.scn"]
 
 [params]
 

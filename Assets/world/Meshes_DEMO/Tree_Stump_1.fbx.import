@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ddyxduw7s0crv"
-path="res://.godot/imported/Tree_Stump_1.fbx-63090a3c586cdb71f84285456bf25f51.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Tree_Stump_1.fbx"
-dest_files=["res://.godot/imported/Tree_Stump_1.fbx-63090a3c586cdb71f84285456bf25f51.scn"]
 
 [params]
 
