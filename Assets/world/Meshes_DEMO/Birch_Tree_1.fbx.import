@@ -4,11 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://clpb5qg1nkb1q"
-valid=false
+path="res://.godot/imported/Birch_Tree_1.fbx-f3c3192e6060ff529088d1eebf4a49d7.scn"
 
 [deps]
 
 source_file="res://Assets/world/Meshes_DEMO/Birch_Tree_1.fbx"
+dest_files=["res://.godot/imported/Birch_Tree_1.fbx-f3c3192e6060ff529088d1eebf4a49d7.scn"]
 
 [params]
 
